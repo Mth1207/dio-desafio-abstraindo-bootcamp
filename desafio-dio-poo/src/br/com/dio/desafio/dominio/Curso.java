@@ -1,6 +1,6 @@
 package br.com.dio.desafio.dominio;
 
-import java.time.LocalDate;
+// import java.time.LocalDate;
 
 public class Curso extends Conteudo {
 
